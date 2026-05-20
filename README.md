@@ -17,7 +17,6 @@ npm run dev
 
 ## UI Screenshots
 
-Add two images here.
 
-![UI Screenshot 1](D:\SwanCleanAssignment\SwanClean\src\assets\Screenshot 2026-05-20 112909.png)
-![UI Screenshot 2](D:\SwanCleanAssignment\SwanClean\src\assets\Screenshot 2026-05-20 112923.png)
+![UI Screenshot 1](./src/assets/Screenshot%202026-05-20%20112909.png)
+![UI Screenshot 2](./src/assets/Screenshot%202026-05-20%20112923.png)
